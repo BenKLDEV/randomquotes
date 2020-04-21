@@ -1,2 +1,2 @@
 # randomquotes
-Vanilla random quotes generator
+Vanilla Javascript random quotes generator
